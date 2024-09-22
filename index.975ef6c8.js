@@ -27179,7 +27179,7 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  * freely use on your site.
  */ var _brickWallJpg = require("../images/brick-wall.jpg");
 var _brickWallJpgDefault = parcelHelpers.interopDefault(_brickWallJpg);
-const imageAltText = "brick wall";
+const imageAltText = "wall brick background";
 /**
  * Sort description that expands on your title on the Home component.
  */ const description = "I am a UI/UX student at Vidyavihar University, passionate about creating unique and simplistic user interfaces in creative ways. By combining my design skills and creativity, I focus on delivering intuitive and engaging user experiences that make technology easy to use and accessible for everyone.";
@@ -28624,7 +28624,7 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * freely use on your site.
  */ var _camelArtJpg = require("../images/camel-art.jpg");
 var _camelArtJpgDefault = parcelHelpers.interopDefault(_camelArtJpg);
-const imageAltText = "Standing camel in desert";
+const imageAltText = "standing camel in desert";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         id: "home",
